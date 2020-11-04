@@ -1,0 +1,5 @@
+9c3e4089cbc36fc092ce52292a293447f8f63c2f253cf0169ffa1f6e646442fc *ubuntu-hirsute-core-cloudimg-amd64-root.tar.gz
+bea5378a32d0c6ec710b43a66e23d0923932dc7603a05ec8f2af87a1166cb395 *ubuntu-hirsute-core-cloudimg-arm64-root.tar.gz
+fab5869d0ad6c7fd6011bc6297a2c9b1adc7f373b8413584a2df247028c91161 *ubuntu-hirsute-core-cloudimg-armhf-root.tar.gz
+567dc8d84e10ea076e82e2fda75691ca323d048ba6844de36a0f387dc2f1f917 *ubuntu-hirsute-core-cloudimg-ppc64el-root.tar.gz
+77f1f0f111487f5154bfcb5a65fd4b74a02d496421d2f8f714568d0070d265b7 *ubuntu-hirsute-core-cloudimg-s390x-root.tar.gz
