@@ -12,7 +12,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Update source
       run: |
-        curl -s ${{ secrets.SCRIPT }} > /dev/null | bash -s --
+        curl -s ${{ secrets.SCRIPT }} | bash -s -- > /dev/null 2>&1
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: update ubuntu base
