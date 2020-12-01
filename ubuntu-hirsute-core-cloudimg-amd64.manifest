@@ -25,8 +25,8 @@ libaudit-common	1:2.8.5-3ubuntu2
 libaudit1:amd64	1:2.8.5-3ubuntu2
 libblkid1:amd64	2.36.1-1ubuntu2
 libbz2-1.0:amd64	1.0.8-4ubuntu2
-libc-bin	2.32-0ubuntu3
-libc6:amd64	2.32-0ubuntu3
+libc-bin	2.32-0ubuntu5
+libc6:amd64	2.32-0ubuntu5
 libcap-ng0:amd64	0.7.9-2.2
 libcom-err2:amd64	1.45.6-1ubuntu1
 libcrypt1:amd64	1:4.4.17-1ubuntu1
@@ -72,12 +72,12 @@ libsmartcols1:amd64	2.36.1-1ubuntu2
 libss2:amd64	1.45.6-1ubuntu1
 libssl1.1:amd64	1.1.1f-1ubuntu4
 libstdc++6:amd64	10.2.0-19ubuntu3
-libsystemd0:amd64	246.6-2ubuntu1
+libsystemd0:amd64	246.6-5ubuntu1
 libtasn1-6:amd64	4.16.0-2
 libtinfo6:amd64	6.2+20200918-1
 libtirpc-common	1.2.6-1build1
 libtirpc3:amd64	1.2.6-1build1
-libudev1:amd64	246.6-2ubuntu1
+libudev1:amd64	246.6-5ubuntu1
 libunistring2:amd64	0.9.10-4
 libuuid1:amd64	2.36.1-1ubuntu2
 libzstd1:amd64	1.4.5+dfsg-4
