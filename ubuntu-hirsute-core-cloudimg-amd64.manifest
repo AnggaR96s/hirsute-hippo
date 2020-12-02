@@ -75,8 +75,8 @@ libstdc++6:amd64	10.2.0-19ubuntu3
 libsystemd0:amd64	246.6-5ubuntu1
 libtasn1-6:amd64	4.16.0-2
 libtinfo6:amd64	6.2+20200918-1
-libtirpc-common	1.2.6-1build1
-libtirpc3:amd64	1.2.6-1build1
+libtirpc-common	1.2.6-3
+libtirpc3:amd64	1.2.6-3
 libudev1:amd64	246.6-5ubuntu1
 libunistring2:amd64	0.9.10-4
 libuuid1:amd64	2.36.1-1ubuntu2
