@@ -27,7 +27,7 @@ libblkid1:amd64	2.36.1-1ubuntu2
 libbz2-1.0:amd64	1.0.8-4ubuntu2
 libc-bin	2.32-0ubuntu5
 libc6:amd64	2.32-0ubuntu5
-libcap-ng0:amd64	0.7.9-2.2
+libcap-ng0:amd64	0.7.9-2.2build1
 libcom-err2:amd64	1.45.6-1ubuntu1
 libcrypt1:amd64	1:4.4.17-1ubuntu1
 libdb5.3:amd64	5.3.28+dfsg1-0.6ubuntu3
@@ -89,7 +89,7 @@ mount	2.36.1-1ubuntu2
 ncurses-base	6.2+20200918-1
 ncurses-bin	6.2+20200918-1
 passwd	1:4.8.1-1ubuntu7
-perl-base	5.30.3-4
+perl-base	5.32.0-5
 procps	2:3.3.16-5ubuntu2
 sed	4.7-1ubuntu1
 sensible-utils	0.0.13
