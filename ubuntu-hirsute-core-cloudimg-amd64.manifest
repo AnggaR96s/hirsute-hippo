@@ -2,9 +2,9 @@ adduser	3.118ubuntu2
 apt	2.1.12
 base-files	11ubuntu16
 base-passwd	3.5.48
-bash	5.1~rc3-1ubuntu1
+bash	5.1-1ubuntu1
 bsdutils	1:2.36.1-1ubuntu2
-coreutils	8.32-4ubuntu1
+coreutils	8.32-4ubuntu2
 dash	0.5.11+git20200708+dd9ef66+really0.5.10.2-0ubuntu1
 debconf	1.5.74
 debianutils	4.11.2
@@ -64,7 +64,7 @@ libpcre2-8-0:amd64	10.35-2ubuntu1
 libpcre3:amd64	2:8.39-13
 libprocps8:amd64	2:3.3.16-5ubuntu2
 libseccomp2:amd64	2.4.3-1ubuntu5
-libselinux1:amd64	3.1-2build1
+libselinux1:amd64	3.1-2build2
 libsemanage-common	3.1-1build2
 libsemanage1:amd64	3.1-1build2
 libsepol1:amd64	3.1-1
