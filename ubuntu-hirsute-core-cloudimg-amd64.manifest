@@ -21,8 +21,8 @@ init-system-helpers	1.59
 libacl1:amd64	2.2.53-8
 libapt-pkg6.0:amd64	2.1.12
 libattr1:amd64	1:2.4.48-5
-libaudit-common	1:2.8.5-3ubuntu2
-libaudit1:amd64	1:2.8.5-3ubuntu2
+libaudit-common	1:2.8.5-3ubuntu3
+libaudit1:amd64	1:2.8.5-3ubuntu3
 libblkid1:amd64	2.36.1-1ubuntu2
 libbz2-1.0:amd64	1.0.8-4ubuntu2
 libc-bin	2.32-0ubuntu5
