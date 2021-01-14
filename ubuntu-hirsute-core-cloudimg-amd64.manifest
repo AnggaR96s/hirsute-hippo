@@ -25,8 +25,8 @@ libaudit-common	1:2.8.5-3ubuntu3
 libaudit1:amd64	1:2.8.5-3ubuntu3
 libblkid1:amd64	2.36.1-1ubuntu2
 libbz2-1.0:amd64	1.0.8-4ubuntu2
-libc-bin	2.32-0ubuntu5
-libc6:amd64	2.32-0ubuntu5
+libc-bin	2.32-0ubuntu6
+libc6:amd64	2.32-0ubuntu6
 libcap-ng0:amd64	0.7.9-2.2build1
 libcap2:amd64	1:2.44-1
 libcom-err2:amd64	1.45.6-1ubuntu1
@@ -94,7 +94,7 @@ passwd	1:4.8.1-1ubuntu8
 perl-base	5.32.0-6
 procps	2:3.3.16-5ubuntu2
 sed	4.7-1ubuntu1
-sensible-utils	0.0.13
+sensible-utils	0.0.14
 sysvinit-utils	2.96-5ubuntu1
 tar	1.32+dfsg-1
 ubuntu-keyring	2020.06.17.1
