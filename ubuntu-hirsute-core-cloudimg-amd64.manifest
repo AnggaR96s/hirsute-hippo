@@ -71,7 +71,7 @@ libsemanage1:amd64	3.1-1build2
 libsepol1:amd64	3.1-1
 libsmartcols1:amd64	2.36.1-1ubuntu2
 libss2:amd64	1.45.6-1ubuntu1
-libssl1.1:amd64	1.1.1f-1ubuntu4
+libssl1.1:amd64	1.1.1f-1ubuntu5
 libstdc++6:amd64	10.2.1-6ubuntu1
 libsystemd0:amd64	247.1-4ubuntu1
 libtasn1-6:amd64	4.16.0-2
