@@ -1,5 +1,5 @@
 adduser	3.118ubuntu4
-apt	2.1.15
+apt	2.1.18
 base-files	11ubuntu16
 base-passwd	3.5.48
 bash	5.1-1ubuntu1
@@ -19,7 +19,7 @@ gzip	1.10-2ubuntu1
 hostname	3.23
 init-system-helpers	1.59
 libacl1:amd64	2.2.53-8
-libapt-pkg6.0:amd64	2.1.15
+libapt-pkg6.0:amd64	2.1.18
 libattr1:amd64	1:2.4.48-6
 libaudit-common	1:2.8.5-3ubuntu3
 libaudit1:amd64	1:2.8.5-3ubuntu3
@@ -42,7 +42,7 @@ libgnutls30:amd64	3.7.0-5ubuntu1
 libgpg-error0:amd64	1.38-2
 libgssapi-krb5-2:amd64	1.17-10ubuntu1
 libhogweed6:amd64	3.6-2
-libidn2-0:amd64	2.3.0-4
+libidn2-0:amd64	2.3.0-5
 libk5crypto3:amd64	1.17-10ubuntu1
 libkeyutils1:amd64	1.6.1-2ubuntu1
 libkrb5-3:amd64	1.17-10ubuntu1
