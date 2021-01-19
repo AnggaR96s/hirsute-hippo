@@ -1,4 +1,4 @@
-adduser	3.118ubuntu4
+adduser	3.118ubuntu5
 apt	2.1.18
 base-files	11ubuntu16
 base-passwd	3.5.48
@@ -15,7 +15,7 @@ findutils	4.7.0-1ubuntu2
 gcc-10-base:amd64	10.2.1-6ubuntu1
 gpgv	2.2.20-1ubuntu1
 grep	3.6-1
-gzip	1.10-2ubuntu1
+gzip	1.10-2ubuntu2
 hostname	3.23
 init-system-helpers	1.59
 libacl1:amd64	2.2.53-8
@@ -32,7 +32,7 @@ libcap2:amd64	1:2.44-1
 libcom-err2:amd64	1.45.6-1ubuntu1
 libcrypt1:amd64	1:4.4.17-1ubuntu1
 libdb5.3:amd64	5.3.28+dfsg1-0.6ubuntu3
-libdebconfclient0:amd64	0.255ubuntu1
+libdebconfclient0:amd64	0.256ubuntu1
 libext2fs2:amd64	1.45.6-1ubuntu1
 libffi8ubuntu1:amd64	3.4~20200819gead65ca871-0ubuntu3
 libgcc-s1:amd64	10.2.1-6ubuntu1
