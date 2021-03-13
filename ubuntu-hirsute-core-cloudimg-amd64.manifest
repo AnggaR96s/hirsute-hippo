@@ -13,7 +13,7 @@ dpkg	1.20.7.1ubuntu3
 e2fsprogs	1.45.7-1ubuntu2
 findutils	4.8.0-1ubuntu1
 gcc-10-base:amd64	10.2.1-21ubuntu1
-gcc-11-base:amd64	11-20210306-1ubuntu1
+gcc-11-base:amd64	11-20210310-1ubuntu1
 gpgv	2.2.20-1ubuntu2
 grep	3.6-1
 gzip	1.10-2ubuntu3
@@ -37,7 +37,7 @@ libdebconfclient0:amd64	0.256ubuntu3
 libext2fs2:amd64	1.45.7-1ubuntu2
 libffi8ubuntu1:amd64	3.4~20200819gead65ca871-0ubuntu5
 libfile-find-rule-perl	0.34-1
-libgcc-s1:amd64	11-20210306-1ubuntu1
+libgcc-s1:amd64	11-20210310-1ubuntu1
 libgcrypt20:amd64	1.8.7-2ubuntu2
 libgdbm-compat4:amd64	1.19-2
 libgdbm6:amd64	1.19-2
@@ -78,7 +78,7 @@ libsepol1:amd64	3.1-1
 libsmartcols1:amd64	2.36.1-7ubuntu2
 libss2:amd64	1.45.7-1ubuntu2
 libssl1.1:amd64	1.1.1j-1ubuntu1
-libstdc++6:amd64	11-20210306-1ubuntu1
+libstdc++6:amd64	11-20210310-1ubuntu1
 libsystemd0:amd64	247.3-1ubuntu4
 libtasn1-6:amd64	4.16.0-2
 libtext-glob-perl	0.11-1
