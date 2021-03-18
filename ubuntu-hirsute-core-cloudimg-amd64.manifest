@@ -104,7 +104,7 @@ perl-modules-5.32	5.32.1-2
 procps	2:3.3.16-5ubuntu2
 sed	4.7-1ubuntu1
 sensible-utils	0.0.14
-sysvinit-utils	2.96-5ubuntu1
+sysvinit-utils	2.96-6ubuntu1
 tar	1.34+dfsg-1build1
 ubuntu-keyring	2020.06.17.1build1
 usrmerge	24ubuntu1
