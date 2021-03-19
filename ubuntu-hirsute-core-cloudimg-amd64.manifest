@@ -14,7 +14,7 @@ e2fsprogs	1.45.7-1ubuntu2
 findutils	4.8.0-1ubuntu1
 gcc-10-base:amd64	10.2.1-23ubuntu1
 gcc-11-base:amd64	11-20210310-1ubuntu1
-gpgv	2.2.20-1ubuntu2
+gpgv	2.2.20-1ubuntu3
 grep	3.6-1
 gzip	1.10-2ubuntu3
 hostname	3.23
