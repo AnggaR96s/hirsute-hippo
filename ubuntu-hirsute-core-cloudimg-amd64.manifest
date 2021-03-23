@@ -12,7 +12,7 @@ diffutils	1:3.7-3ubuntu1
 dpkg	1.20.7.1ubuntu3
 e2fsprogs	1.45.7-1ubuntu2
 findutils	4.8.0-1ubuntu1
-gcc-10-base:amd64	10.2.1-23ubuntu1
+gcc-10-base:amd64	10.2.1-23ubuntu2
 gcc-11-base:amd64	11-20210310-1ubuntu1
 gpgv	2.2.20-1ubuntu3
 grep	3.6-1
@@ -31,8 +31,8 @@ libc6:amd64	2.33-0ubuntu2
 libcap-ng0:amd64	0.7.9-2.2build1
 libcap2:amd64	1:2.44-1build1
 libcom-err2:amd64	1.45.7-1ubuntu2
-libcrypt1:amd64	1:4.4.17-1ubuntu2
-libdb5.3:amd64	5.3.28+dfsg1-0.6ubuntu3
+libcrypt1:amd64	1:4.4.17-1ubuntu3
+libdb5.3:amd64	5.3.28+dfsg1-0.6ubuntu4
 libdebconfclient0:amd64	0.256ubuntu3
 libext2fs2:amd64	1.45.7-1ubuntu2
 libffi8ubuntu1:amd64	3.4~20200819gead65ca871-0ubuntu5
@@ -72,9 +72,9 @@ libperl5.32:amd64	5.32.1-2
 libprocps8:amd64	2:3.3.16-5ubuntu2
 libseccomp2:amd64	2.5.1-1ubuntu1
 libselinux1:amd64	3.1-3build1
-libsemanage-common	3.1-1build2
-libsemanage1:amd64	3.1-1build2
-libsepol1:amd64	3.1-1
+libsemanage-common	3.1-1ubuntu1
+libsemanage1:amd64	3.1-1ubuntu1
+libsepol1:amd64	3.1-1ubuntu1
 libsmartcols1:amd64	2.36.1-7ubuntu2
 libss2:amd64	1.45.7-1ubuntu2
 libssl1.1:amd64	1.1.1j-1ubuntu1
@@ -106,7 +106,7 @@ sed	4.7-1ubuntu1
 sensible-utils	0.0.14
 sysvinit-utils	2.96-6ubuntu1
 tar	1.34+dfsg-1build1
-ubuntu-keyring	2020.06.17.1build1
+ubuntu-keyring	2021.03.21.1
 usrmerge	24ubuntu1
 util-linux	2.36.1-7ubuntu2
 zlib1g:amd64	1:1.2.11.dfsg-2ubuntu5
