@@ -1,6 +1,6 @@
 adduser	3.118ubuntu5
 apt	2.2.3
-base-files	11ubuntu18
+base-files	11ubuntu19
 base-passwd	3.5.49
 bash	5.1-2ubuntu1
 bsdutils	1:2.36.1-7ubuntu2
@@ -9,7 +9,7 @@ dash	0.5.11+git20200708+dd9ef66+really0.5.11+git20200708+dd9ef66-5ubuntu1
 debconf	1.5.74
 debianutils	4.11.2
 diffutils	1:3.7-3ubuntu1
-dpkg	1.20.7.1ubuntu4
+dpkg	1.20.9ubuntu1
 e2fsprogs	1.45.7-1ubuntu2
 findutils	4.8.0-1ubuntu1
 gcc-11-base:amd64	11-20210417-1ubuntu1
