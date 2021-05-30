@@ -48,7 +48,7 @@ libk5crypto3:amd64	1.18.3-4
 libkeyutils1:amd64	1.6.1-2ubuntu1
 libkrb5-3:amd64	1.18.3-4
 libkrb5support0:amd64	1.18.3-4
-liblz4-1:amd64	1.9.3-1build1
+liblz4-1:amd64	1.9.3-1ubuntu0.1
 liblzma5:amd64	5.2.5-1.0build2
 libmount1:amd64	2.36.1-7ubuntu2
 libncurses6:amd64	6.2+20201114-2build1
